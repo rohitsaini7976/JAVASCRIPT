@@ -81,12 +81,30 @@
 // console.log(specialString)
 
 // let obj ={
-//     item : "Pen",
+//    item : "Pen",
 //     price:10,
-// };
-// let output =`the cost of ${obj.item} is ${obj.price} rupes`;
-// console.log(output);
-//console.log("The cost of",obj.item,"is",obj.price,"rupes");
+//  };
+//  let output =`the cost of ${obj.item} is ${obj.price} rupes`;
+//console.log(output);
+// console.log("The cost of",obj.item,"is",obj.price,"rupes");
 
 
+//String methods in JS
+
+// let str ="RohitSaini";
+// str = str.toUpperCase();
+// console.log(str);
+
+// let str ="RohitSaini";
+// str = str.toLowerCase();
+// console.log(str);
+
+// let str ="     Rohit Saini    ";
+// console.log(str.trim()); 
+ 
+//Question.1
+
+  // let fullName = prompt("Enter your fullname without spaces");
+  // let username = "@" + fullName  + fullName.length;
+  // console.log(username);
 
